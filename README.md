@@ -1,5 +1,5 @@
 # simple-web-multiplier
-A simple web page based on springboot to multiply two numbers
+A simple web page based on springboot.
 
 با توجه به این که احتمالا باید تمارین دیگر نیز در گیت‌هاب تحویل گرفته شوند، یک Organization برای درس WebDesgin ساختم تا بقیه تمارین هر کدام به عنوان یکی از Repository ها تعریف شوند.
 مچنین فایل‌های اصلی این تمرین (Application, Service, Controller) در آدرس زیر قابل مشاهده هستند.
